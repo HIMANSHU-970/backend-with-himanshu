@@ -1,0 +1,9 @@
+{
+  // prettier hmlog isliye use krte h agar hmlog group me koi code likh rhe h aur koo mistake krta h jaise koi single quote use krta h koi double, koi semicolon use krta h ,, ayese sb me oo auto format kr deta h aur hmlog ke code me consistency aajati h aur code clean dikhne lagta h 
+
+  "singleQuote": false,
+  "bracketSpacing": true,
+  "tabWidth": 2,
+  "semi":true,
+  "trailingComma": "es5"
+}

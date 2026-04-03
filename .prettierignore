@@ -1,0 +1,8 @@
+# prettierignore ye krta h ki kon kon se file ko prettier ignore kr de taki hmlog ke code me consistency aajati h aur code clean dikhne lagta h
+
+/.vscode
+/node_modules
+./distribution
+*.env
+.env
+.env.*
